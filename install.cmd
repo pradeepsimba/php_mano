@@ -1,0 +1,1 @@
+npm install && npm install webpack webpack-cli --global
